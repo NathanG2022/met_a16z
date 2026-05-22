@@ -1,0 +1,9 @@
+{
+  "name": "verba",
+  "private": true,
+  "description": "Record your voice, get a transcript, and get AI-driven feedback on your public speaking.",
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}

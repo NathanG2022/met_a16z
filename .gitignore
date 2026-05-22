@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# Env files — never commit
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local SQLite DB
+*.db
+
+# Uploads / temp
+server/uploads/
+server/temp/
